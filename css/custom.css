@@ -1,0 +1,51 @@
+h3.textsizecss {
+    font-size: 21px;
+    padding: 7px;
+    color: #fff;
+}
+h3.textsizecss1 {
+    font-size: 21px;
+    padding: 7px;
+    color: #fff;
+}
+
+.text-warning {
+    color: #FF9E1F!important;
+}
+
+#wrapper {
+  padding-right: 0;
+ /* -webkit-transition: all 0.5s ease;
+  -moz-transition: all 0.5s ease;
+  -o-transition: all 0.5s ease;
+  transition: all 0.5s ease;*/
+}
+
+
+#wrapper.toggled #sidebar-wrapper {
+  width: 250px;
+}
+
+#page-content-wrapper {
+  width: 100%;
+  position: absolute;
+  padding: 15px;
+}
+
+html{
+	background-color:white;
+}
+
+.headerboxcss{
+    background: #004AAD;
+    color: #fff;
+    padding: 4px 0px 1px 25px;
+    border-radius: 8px;
+}
+
+.link_color{
+  color: #000;
+}
+.center-align{
+	justify-content:center;
+}
